@@ -19,10 +19,10 @@ progettazione è necessario pensare a chi utilizzerà realmente il
 servizio, e il modello di riferimento del progettista deve coincidere
 con quello dell’effettivo utilizzatore.
 
-User-centered design
+Human-centered design
 ~~~~~~~~~~~~~~~~~~~~
 
-Lo user centered design è un insieme di tecniche usate per far emergere
+Lo human centered design è un insieme di tecniche usate per far emergere
 i bisogni effettivi delle persone per cui si sta progettando un
 contenuto, coinvolgendo le persone stesse nel processo di progettazione.
 Per "persone" si intendono tutti i portatori di interesse (stakeholder)
@@ -155,49 +155,27 @@ utilizzare differenti tecniche, fra le quali quelle suggerite dal
 Usabilità nei capitolati di gara
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Lo Human-Centred Design (HCD), ossia la progettazione orientata all’utente,
-è un approccio di sviluppo orientato alla creazione di sistemi che soddisfino
-le esigenze e i desideri dell’utente a cui sono destinati. Il coinvolgimento
-delle persone fin dalle prime fasi del progetto, è il perno di questo tipo di
-approccio. Lo scopo è quello di tenere in considerazione le caratteristiche,
-le necessità e i punti di vista degli utenti al fine di migliorare l’usabilità
-e l’esperienza d’uso (User Experience) dei prodotti e servizi a loro rivolti. 
-
-Vantaggi
-^^^^^^^^
-
-Nell’ambito dei servizi web forniti dalla Pubblica Amministrazione, questo tipo
-di approccio consente di ridurre:
-
-- il carico delle attività a sportello e dei call center
-- i costi complessivi di progettazione e sviluppo
-- i costi di manutenzione
-- gli errori d’uso da parte dei dipendenti e dei cittadini (es. compilazione
-  errata di moduli)
-
-Attività HCD nei capitolati di gara
+Lo Human Centered Design nei capitolati di gara
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-La progettazione orientata all’utente può essere sviluppata e applicata secondo
-diverse modalità. In base alla disponibilità economica e temporale, il contraente
-può infatti decidere quale fra i requisiti indicati di seguito intende inserire
-all’interno del capitolato di gara. Si specifica che le attività HCD si possono
-integrare con le diverse tipologie di processo di sviluppo (es. Waterfall, Agile,
-Lean). Ne consegue che i tempi indicati all’interno dei singoli requisiti per lo
-svolgimento del processo HCD non vanno aggiunti al piano di lavoro salvo valutare
-che non possano essere svolti in parallelo alle altre attività già pianificate.
+Per favorire la progettazione orientata all’utente anche nei capitolati tecnici 
+dei bandi di gara per siti e servizi delle amministrazioni pubbliche, vengono di seguito 
+indicate tre possibili modalità di valutazione e indagine.
 
+Le attività di Human Centered Design (HCD) sono indicate nei riquadri sottostanti
+e possono essere "copiate e incollate" nel capitolato tecnico, scegliendo uno dei requisiti base/intermedi/avanzati 
+che più si addice alle disponibilità economiche e temporali del committente.
+
+**Requisiti base**                                                                     
+I requisiti di base dello Human-Centered Design possono essere seguiti per bandi       
+di siti e servizi a bassa complessità, con budget e tempi di esecuzione ridotti.       
+Permettono di svolgere delle valutazioni preliminari sull’utenza di riferimento        
+insieme ad alcune valutazioni qualitative dell’usabilità.                              
+                                                                                       
+Tempo necessario per il processo: minimo 1 mese                                        
+**Indicazioni per il capitolato di gara**  
 +----------------------------------------------------------------------------------------+
-| **Requisiti base**                                                                     |
 +========================================================================================+
-| I requisiti di base dello Human-Centered Design possono essere seguiti per bandi       |
-| di siti e servizi a bassa complessità, con budget e tempi di esecuzione ridotti.       |
-| Permettono di svolgere delle valutazioni preliminari sull’utenza di riferimento        |
-| insieme ad alcune valutazioni qualitative dell’usabilità.                              |
-|                                                                                        |
-| Tempo necessario per il processo: minimo 1 mese                                        |
-|                                                                                        |
-| **Indicazioni per il capitolato di gara**                                              |
 |                                                                                        |
 | *Progettazione orientata all’utente, usabilità e User Experience*                      |
 |                                                                                        |
@@ -224,16 +202,15 @@ che non possano essere svolti in parallelo alle altre attività già pianificate
 +----------------------------------------------------------------------------------------+
 
 +-----------------------------------------------------------------------------------------------------+
-| **Requisiti intermedi**                                                                             |
+**Requisiti intermedi**                                                                             
+Possono essere seguiti per bandi di siti e servizi a media complessità, con budget e                
+tempi di esecuzione medio/elevati. Permettono di profilare l’utenza di riferimento,                 
+monitorare l’usabilità percepita (attraverso questionari) e l’alberatura di navigazione             
+insieme ad alcune valutazioni qualitative dell’usabilità.                                           
+                                                                                                    
+Tempo necessario per il processo: minimo 3 mesi                                                     
+**Indicazioni per il capitolato di gara**                                                           
 +=====================================================================================================+
-| Possono essere seguiti per bandi di siti e servizi a media complessità, con budget e                |
-| tempi di esecuzione medio/elevati. Permettono di profilare l’utenza di riferimento,                 |
-| monitorare l’usabilità percepita (attraverso questionari) e l’alberatura di navigazione             |
-| insieme ad alcune valutazioni qualitative dell’usabilità.                                           |
-|                                                                                                     |
-| Tempo necessario per il processo: minimo 3 mesi                                                     |
-|                                                                                                     |
-| **Indicazioni per il capitolato di gara**                                                           |
 |                                                                                                     |
 | *Progettazione orientata all’utente, usabilità e User Experience*                                   |
 |                                                                                                     |
@@ -268,16 +245,16 @@ che non possano essere svolti in parallelo alle altre attività già pianificate
 +-----------------------------------------------------------------------------------------------------+
 
 +------------------------------------------------------------------------------------------------------------+
-| **Processo secondo i requisiti avanzati**                                                                  |
+**Processo secondo i requisiti avanzati**
+Possono essere seguiti per la realizzazione di siti e servizi di media ed elevata complessità, con         
+budget e tempi di esecuzione medio/elevati. Permettono di sviluppare gli stessi processi svolti            
+secondo i requisiti intermedi ma con una maggiore propensione ad attività quantitative oltre che           
+qualitative.                                                              
+
+Tempo necessario per il processo: minimo 6 mesi                                                            
+                                                                                                
+**Indicazioni per il capitolato di gara**     
 +============================================================================================================+
-| Possono essere seguiti per la realizzazione di siti e servizi di media ed elevata complessità, con         |
-| budget e tempi di esecuzione medio/elevati. Permettono di sviluppare gli stessi processi svolti            |
-| secondo i requisiti intermedi ma con una maggiore propensione ad attività quantitative oltre che           |
-| qualitative.                                                                                               |
-|                                                                                                            |
-| Tempo necessario per il processo: minimo 6 mesi                                                            |
-|                                                                                                            |
-| **Indicazioni per il capitolato di gara**                                                                  |
 |                                                                                                            |
 | *Progettazione orientata all’utente, usabilità e User Experience*                                          |
 |                                                                                                            |
